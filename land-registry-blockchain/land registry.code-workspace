@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "land-registry-blockchain",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
